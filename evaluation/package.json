@@ -1,5 +1,9 @@
 {
   "devDependencies": {
+    "tsx": "^4.23.15",
     "vitest": "^5.0.1"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2"
   }
 }
