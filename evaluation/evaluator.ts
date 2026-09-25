@@ -19,7 +19,7 @@ exec(
             const score = total === 0 ? 0 : (passed / total) * 100;
 
             console.log("Evaluation Result");
-            console.log("------------------");
+            console.log("---------------------");
             console.log("Passed:", passed);
             console.log("Failed:", failed);
             console.log("Total:", total);
